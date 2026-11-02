@@ -12,3 +12,6 @@ Vidéos affichées sur le site beforma.fr, distribuées par le CDN jsDelivr pour
 Lien type : `https://cdn.jsdelivr.net/gh/BeformaDev/beforma-medias@<version>/video/<fichier>`
 
 Ne contient que des fichiers déjà publics sur le site. Le code du site est dans un autre dépôt, privé.
+
+
+Chaque version (tag vN) ne contient que les vidéos qu'elle publie : jsDelivr refuse une version de plus de 50 Mo. Les vidéos plus anciennes restent servies par leur propre tag (v1 à v5).
