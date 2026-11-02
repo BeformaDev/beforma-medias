@@ -4,6 +4,8 @@ Vidéos affichées sur le site beforma.fr, distribuées par le CDN jsDelivr pour
 
 - `video/melanie-accueil-480.mp4` : témoignage de Mélanie, 37 s, version téléphone
 - `video/melanie-accueil-720.mp4` : même vidéo, version ordinateur
+- `video/entrepreneur-tpe-ia-90s-480.mp4` : présentation « Entrepreneur de la TPE de l'IA », 86 s, version téléphone (depuis v2)
+- `video/entrepreneur-tpe-ia-90s-720.mp4` : même vidéo, version ordinateur (depuis v2)
 
 Lien type : `https://cdn.jsdelivr.net/gh/BeformaDev/beforma-medias@<version>/video/<fichier>`
 
